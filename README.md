@@ -1,2 +1,2 @@
 #Demo
-Descrption abouts README
+Descrption about README
